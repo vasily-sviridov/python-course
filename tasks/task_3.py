@@ -1,3 +1,5 @@
+import operator
+
 count_students = int(input())
 student_marks = {}
 student_marks_count = {}
@@ -16,4 +18,5 @@ result_db = {}
 for i in student_marks:
     result_db[i] = round(student_marks[i] / student_marks_count[i])
 
-print(result_db)
+print(f"Худший - {min(result_db, key=result_db.get)}")
+print(f"Лучший - {max(result_db, key=result_db.get)}")
