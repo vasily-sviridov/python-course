@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tables.dir/main.cpp.o CMakeFiles/tables.dir/table_better.cpp.o  -o tables 
