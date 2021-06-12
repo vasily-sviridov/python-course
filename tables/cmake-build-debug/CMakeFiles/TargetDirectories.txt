@@ -1,3 +1,0 @@
-/home/vasily-sviridov/code/python-course/tables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vasily-sviridov/code/python-course/tables/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/vasily-sviridov/code/python-course/tables/cmake-build-debug/CMakeFiles/tables.dir
