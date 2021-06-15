@@ -11,5 +11,3 @@ for (a, b, c, d, e, f) in itertools.permutations('капкан'):
           s.add(a + b + c + d +e +f)
 
 print(len(s))
-
-
