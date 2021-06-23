@@ -1,6 +1,8 @@
 """
 
 """
+
+
 with open("24-5.txt") as f:
     data = f.readline()
 
